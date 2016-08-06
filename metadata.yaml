@@ -1,0 +1,32 @@
+_repo: The-Gentleman-from-Indiana_9659
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Tarkington's first novel, published in 1899, features a crusading young
+  editor, John Harkless, who comes to the small Indiana town of Plattsville to edit
+  the dying local paper only to find corruption by a band of local thugs . . . and
+  romance with a woman who exceeds all expectations.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indiana -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Gentleman from Indiana
+url: http://www.gutenberg.org/ebooks/9659
